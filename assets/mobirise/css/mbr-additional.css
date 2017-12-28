@@ -1754,8 +1754,8 @@ body {
 }
 .cid-qF2fb0mI0A {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-qF2fb0mI0A h2 {
   text-align: center;
@@ -1791,6 +1791,15 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-qF2fb0mI0A .mbr-section-title {
+  text-align: center;
+}
+.cid-qF2fb0mI0A B {
+  color: #ffffff;
+}
+.cid-qF2fb0mI0A H4 {
+  color: #ffffff;
+}
 .cid-qF2f7dH7IK {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1810,4 +1819,7 @@ body {
 }
 .cid-qF2f7dH7IK .card-wrapper {
   height: 100%;
+}
+.cid-qF8ylY2B74 {
+  background-image: url("../../../assets/images/education-background-1-2000x1330.jpg");
 }
